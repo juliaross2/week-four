@@ -1,0 +1,71 @@
+.navbar-brand {
+  font-family: "Orelega One", serif;
+  font-size: 2rem;
+}
+
+.navbar-nav .nav-link {
+  font-family: "Inter Tight", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 66px;
+  font-family: "Orelega One", serif;
+}
+
+h2 {
+  font-size: 38px;
+  font-family: "Inter Tight", sans-serif;
+}
+
+h3 {
+  font-size: 24px;
+  opacity: 0.7;
+}
+
+p {
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.hero {
+  border: 2px solid #dfdaed;
+  background-color: #dfdaed;
+  text-align: center;
+  padding: 50px;
+}
+
+.recipe-title {
+  font-family: "Orelega One", serif;
+}
+
+.recipe-description {
+  font-family: "Inter Tight", sans-serif;
+}
+
+.small-image {
+  max-width: 500px;
+  max-height: 450px;
+}
+
+.read-recipe {
+  background-color: #dfdaed;
+  border-radius: 8px;
+  font-family: "Inter Tight", sans-serif;
+  font-size: 10px;
+  color: white;
+}
+
+.read-recipe:hover {
+  background-color: #f4f2f9;
+  color: grey;
+}
