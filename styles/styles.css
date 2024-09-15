@@ -47,6 +47,7 @@ p {
 .recipe-title {
   font-family: "Orelega One", serif;
   color: black;
+  text-align: center; /* Center title */
 }
 
 .recipe-description {
@@ -116,4 +117,31 @@ footer {
 
 .footer-name {
   font-family: "Orelega One", serif;
+}
+
+.recipe-page-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.recipe-container {
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.recipe-ingredients,
+.recipe-instructions {
+  font-family: "Inter Tight", sans-serif;
+  padding: 0 30px;
+  margin: 0;
+}
+
+.ingredients,
+.instructions {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
 }
