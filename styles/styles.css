@@ -107,3 +107,13 @@ p {
   max-width: 500px;
   max-height: 450px;
 }
+
+footer {
+  border: 2px solid #dfdaed;
+  background-color: #dfdaed;
+  padding: 10px;
+}
+
+.footer-name {
+  font-family: "Orelega One", serif;
+}
