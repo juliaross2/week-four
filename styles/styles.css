@@ -37,7 +37,7 @@ p {
   line-height: 1.5;
 }
 
-.hero {
+.home-hero {
   border: 2px solid #dfdaed;
   background-color: #dfdaed;
   text-align: center;
@@ -46,13 +46,14 @@ p {
 
 .recipe-title {
   font-family: "Orelega One", serif;
+  color: black;
 }
 
 .recipe-description {
   font-family: "Inter Tight", sans-serif;
 }
 
-.small-image {
+.home-small-image {
   max-width: 500px;
   max-height: 450px;
 }
@@ -68,4 +69,41 @@ p {
 .read-recipe:hover {
   background-color: #f4f2f9;
   color: grey;
+}
+
+.about-title {
+  font-family: "Inter Tight", sans-serif;
+}
+
+.ig-social-icon {
+  margin-right: 15px;
+  margin-left: 10px;
+  color: black;
+}
+
+.ig-social-icon:hover {
+  color: grey;
+}
+
+.fb-social-icon {
+  margin-right: 15px;
+  color: black;
+}
+
+.fb-social-icon:hover {
+  color: grey;
+}
+
+.p-social-icon {
+  margin-right: 15px;
+  color: black;
+}
+
+.p-social-icon:hover {
+  color: grey;
+}
+
+.about-small-image {
+  max-width: 500px;
+  max-height: 450px;
 }
